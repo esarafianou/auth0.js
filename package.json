@@ -38,7 +38,7 @@
   "dependencies": {
     "base64-js": "^1.2.0",
     "idtoken-verifier": "^1.1.1",
-    "qs": "^6.4.0",
+    "qs": "^6.4.1",
     "superagent": "^3.8.2",
     "url-join": "^1.1.0",
     "winchan": "^0.2.0"
